@@ -1,0 +1,33 @@
+{
+  "type": "object",
+  "javaType": "com.Data",
+  "properties": {
+    "age": {
+       "type": "string"
+    },
+    "class":{
+       "type": "double"
+    },
+    "insu":{
+       "type": "double"
+    },
+    "mass":{
+       "type": "double"
+    },
+    "pedi":{
+       "type": "double"
+    },
+    "plas":{
+       "type": "double"
+    },
+    "preg":{
+       "type": "double"
+    },
+    "pres":{
+       "type": "double"
+    },
+    "skin":{
+       "type": "double"
+    }    
+  }
+}
